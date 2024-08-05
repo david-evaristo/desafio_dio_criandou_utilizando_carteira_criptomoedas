@@ -1,0 +1,22 @@
+Senha
+evaristo
+
+https://blockexplorer.one/bitcoin/testnet
+https://live.blockcypher.com/bcy/
+
+
+executar electrum testnet
+open -n /Applications/Electrum.app --args --testnet
+
+ENDEREÇO 1
+Carteira gerada
+Endereço:  murKoZbBvkscA3E3CTogccsxZ6aKqVDnTp
+Chave privada: cMqp4N929MgbAaBRvFQc9JMJ5LJiPAjreGFYoR8Pw5bPCtNjoXar
+Seed: myth fish option radio dawn reunion shallow abandon pluck roof unit soldier
+
+ENDEREÇO 2
+Carteira gerada
+Endereço:  mw5h5ExCt9P78qeE2BH81amhSEzdaPcMuW
+Chave privada: cPeRvKpPHdSadJa7wKZa82bYZJHJ9uMb3aEwRwR8B4yrY8V7tNcV
+Seed: share sniff anchor razor rural robot network uniform viable museum fit gesture
+
